@@ -47254,6 +47254,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 ytstatic.l.google.com
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 www.googleapis.com/youtube/v3
+0.0.0.0 ns1.google.com
+0.0.0.0 ns2.google.com
+0.0.0.0 ns3.google.com
+0.0.0.0 ns4.google.com
+0.0.0.0 172.217.22.110
 
 #Twitch
 0.0.0.0 api.mixpanel.com 
