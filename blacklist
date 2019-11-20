@@ -47245,11 +47245,19 @@ ff02::3 ip6-allhosts
 #YouTube
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
-0.0.0.0 googlevideo.com 
+0.0.0.0 googlevideo.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 www.m.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 ytstatic.l.google.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 www.googleapis.com/youtube/v3
 
 #Twitch
 0.0.0.0 api.mixpanel.com 
-0.0.0.0 twitch.tv
+0.0.0.0 twitch.tv0
 0.0.0.0 www.twitch.tv
 0.0.0.0 spade.twitch.com 
 0.0.0.0 pubads.g.doubleclick.net 
